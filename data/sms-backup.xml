@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<!--File Created By SMS Backup & Restore v10.26.003 on 11/07/2026 20:02:39-->
+<!--File Created By SMS Backup & Restore v10.26.003 on 13/07/2026 20:00:39-->
 <!--
 
 To view this file in a more readable format, visit https://synctech.com.au/view-backup/
 
 -->
-<smses count="286" backup_set="068669e7-160c-4231-8350-b225f8422230" backup_date="1783818159313" type="full">
+<smses count="287" backup_set="222045cb-0925-4dcd-b3fe-a5f752b3f3f6" backup_date="1783990839690" type="full">
   <sms protocol="52" address="+2626" date="1765288379512" type="1" subject="null" body="BdP informa: Por tu seguridad NO compartas esta informacion con NADIE. Para la Banca Movil tu codigo es 569438 valido por 10 minutos" toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1765288380000" sub_id="1" readable_date="9 dic 2025 08:52:59" contact_name="(Unknown)" />
   <sms protocol="52" address="+2626" date="1765288405008" type="1" subject="null" body="Diego Vaca, ha registrado un nuevo equipo para ingresar a la Banca Movil de BdP. Si no realizo esta transaccion marque al 3731500 opcion 9." toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1765288405000" sub_id="1" readable_date="9 dic 2025 08:53:25" contact_name="(Unknown)" />
   <sms protocol="52" address="+2626" date="1765288506670" type="1" subject="null" body="BdP informa: Por tu seguridad NO compartas esta informacion con NADIE. Para la Banca Movil tu codigo es 124755 valido por 10 minutos" toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1765288507000" sub_id="1" readable_date="9 dic 2025 08:55:06" contact_name="(Unknown)" />
@@ -292,4 +292,5 @@ To view this file in a more readable format, visit https://synctech.com.au/view-
   <sms protocol="0" address="+2667" date="1783462381735" type="1" subject="null" body="EEQ Informa: Vientos de verano causan la CAIDA de ramas u objetos sobre la RED ELECTRICA. Reporta al 136 RESTABLECEREMOS el servicio en el menor tiempo posible." toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1783462382000" sub_id="1" readable_date="7 jul 2026 17:13:01" contact_name="(Unknown)" />
   <sms protocol="0" address="+2667" date="1783531708893" type="1" subject="null" body="EEQ Informa: Consulta tus tramites, pagos y servicios desde nuestros canales oficiales: WhatsApp: https://wa.me/593986833386 o la Agencia Virtual www.eeq.com.e" toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1783531708000" sub_id="1" readable_date="8 jul 2026 12:28:28" contact_name="(Unknown)" />
   <sms protocol="0" address="+2667" date="1783701265662" type="1" subject="null" body="EEQ Recomienda: Si sospechas del robo de cables o afectaciones a la INFRAESTRUCTURA ELECTRICA, llama al 136 o ECU911. Cuidemos juntos el SERVICIO ELECTRICO" toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1783701265000" sub_id="1" readable_date="10 jul 2026 11:34:25" contact_name="(Unknown)" />
+  <sms protocol="0" address="+299999" date="1783890122817" type="1" subject="null" body="Estimado Cliente, el codigo de seguridad de tu transaccion es: 724194.Tiempo duracion: 5 minutos.Banco Pichincha: 12/jul a las 16:02" toa="null" sc_toa="null" service_center="+593958977963" read="1" status="-1" locked="0" date_sent="1783890123000" sub_id="1" readable_date="12 jul 2026 16:02:02" contact_name="(Unknown)" />
 </smses>
