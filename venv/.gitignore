@@ -1,10 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 /venv
 /data
-<<<<<<< HEAD
-=======
 /output
->>>>>>> 02c3de115ebba7a6f3e89e3e3257a2d22e42bd10
 *.xls
 *.xlsx
 *.csv
