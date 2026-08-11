@@ -1,0 +1,9 @@
+/.vscode
+/data
+/output
+credentials.json
+*.xls
+*.xlsx
+*.csv
+*.txt
+*.pdf
