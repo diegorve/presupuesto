@@ -1,4 +1,4 @@
-data
-output
-reports
-__pycache__
+data/
+output/
+reports/
+__pycache__/
