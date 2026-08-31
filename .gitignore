@@ -1,7 +1,1 @@
-data/*
-output/*
-credentials.json
-*.pdf
-*.csv
-*.xlsx
-*.xls
+data
