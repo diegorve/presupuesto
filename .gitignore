@@ -1,4 +1,9 @@
-data
-output
-reports
-__pycache__
+/.vscode
+/data
+/output
+credentials.json
+*.xls
+*.xlsx
+*.csv
+*.txt
+*.pdf
